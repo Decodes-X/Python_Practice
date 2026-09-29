@@ -1,1 +1,0 @@
-Kinda moged my code as i was doing two sum by creating two different arrays where as i could just compress it down to 4 lines (obviously not related to Bubble sort HOWEVER the sorting through a element list)
