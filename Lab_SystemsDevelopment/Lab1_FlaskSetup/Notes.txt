@@ -1,0 +1,26 @@
+Pain
+
+To setup without using PyCharm as a IDE goes as so
+
+'''
+pip install flask
+'''
+
+then generate a Virtual Enviroment > makes a .venv folder
+
+When inside the container folder add a "app.py" to address code and reference flash from .venv
+
+THEN change the INTERPERATURE to the *python.exe* file inside of the .venv
+
+(no code has been written at this point)
+
+
+
+===================
+Learning Experience which now makes sense but i had no clue before:
+
+When creating a .venv it creates it for the root folder you are in ie the base > The folder in which you want the Enviroment needs to be the "Base" otherwise it doesn't work and will throw errors
+such as the ones saying that it "Can't find the path" as it's not as simple as drag and dropping it to a different dir and you have to actually have too cd
+
+ps. it works
+==================
