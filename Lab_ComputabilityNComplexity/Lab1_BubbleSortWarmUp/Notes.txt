@@ -1,1 +1,0 @@
-My code got mogged by how much smaller python can be written
