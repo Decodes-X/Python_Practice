@@ -1,0 +1,3 @@
+Not fully done however just my version of Euclides GCD (Obivously not the best but just a good bit of practice whilst listeing)
+
+Fun practice, got stuck. thought about the solution in a random place. 
