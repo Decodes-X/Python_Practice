@@ -1,3 +1,5 @@
+
+TwoSum:
 First itteration worked
 
 All test cases worked
@@ -6,3 +8,7 @@ Extra cases started breaking code
 
 12/10/26:
 All the code commented out was just me trying to optimise the search and make it faster, however i realised that if i take it all out apart from the check for a "0" it passed all the tests...
+
+End
+
+Add Two Numbers:
