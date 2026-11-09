@@ -1,0 +1,9 @@
+==========
+Played about with the html interface 
+
+alot to learn for front end
+
+backend needs to still be hooked with a api to a free db host
+
+-09/11
+==========
