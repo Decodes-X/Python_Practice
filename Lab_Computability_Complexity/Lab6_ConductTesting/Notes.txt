@@ -1,0 +1,2 @@
+Randomness in the data, which can also include diviations in setup times or appoitment times/overrun error
+for appoitnment setting it could be urgency/triage

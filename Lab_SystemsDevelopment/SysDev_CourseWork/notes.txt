@@ -7,3 +7,6 @@ backend needs to still be hooked with a api to a free db host
 
 -09/11
 ==========
+
+10/11
+.env (don't leak it lol)

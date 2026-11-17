@@ -1,0 +1,6 @@
+3 Machines, the dataset does not matter
+
+that GA uses 3 machines figures out the quickest time then adds machines to jobs to make sure that it does not overlap
+
+ie machine 3 could be assigned a value of 40 minutes whereas machine 1 and 2 get given the shorter tasks
+
